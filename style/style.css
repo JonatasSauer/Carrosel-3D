@@ -16,11 +16,11 @@ body {
 
 header#cabecalho{
     width: 100%;
-    heigth: 50px;
-    line-heigth: 50px;
+    heigth: 60px;
+    line-heigth: 60px;
     text-align: center;
     color: #fff;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
 }
 
 .container {
