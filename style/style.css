@@ -19,6 +19,7 @@ header#cabecalho{
     heigth: 80px;
     line-heigth: 80px;
     text-align: center;
+    text-shadow: 1px 1px 5px #000;
     color: #fff;
     font-size: 1.05rem;
 }
